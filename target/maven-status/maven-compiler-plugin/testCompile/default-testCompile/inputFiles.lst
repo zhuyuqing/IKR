@@ -1,0 +1,13 @@
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/MetricsManagerTestCase.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/it/RestService.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/it/insert/AddPointsTest.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/it/delete/DeletePointsTest.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/it/query/QueryTest.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/it/rollup/RollupTest.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/iotdb/kairosdb/dao/MetricsManagerTest.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/util/HttpUtil.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/it/metadata/MetadataTest.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/it/health/HealthChecksTest.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/QueryTestCase.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/IoTDBConnectorTestCase.java
+/Users/zyq/GitProjects/tcpserver/iotdb-kairosdb_zc_zyq/src/test/java/cn/edu/tsinghua/it/query/NameQueryTest.java

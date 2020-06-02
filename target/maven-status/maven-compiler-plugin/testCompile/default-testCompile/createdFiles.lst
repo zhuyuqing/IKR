@@ -1,0 +1,13 @@
+cn/edu/tsinghua/util/HttpUtil.class
+cn/edu/tsinghua/it/metadata/MetadataTest.class
+cn/edu/tsinghua/iotdb/kairosdb/dao/MetricsManagerTest.class
+cn/edu/tsinghua/MetricsManagerTestCase.class
+cn/edu/tsinghua/it/rollup/RollupTest.class
+cn/edu/tsinghua/it/delete/DeletePointsTest.class
+cn/edu/tsinghua/it/query/QueryTest.class
+cn/edu/tsinghua/it/insert/AddPointsTest.class
+cn/edu/tsinghua/IoTDBConnectorTestCase.class
+cn/edu/tsinghua/it/query/NameQueryTest.class
+cn/edu/tsinghua/it/health/HealthChecksTest.class
+cn/edu/tsinghua/QueryTestCase.class
+cn/edu/tsinghua/it/RestService.class
